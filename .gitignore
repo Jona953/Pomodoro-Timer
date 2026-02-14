@@ -1,0 +1,67 @@
+# Sistema Operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
+
+# Archivos de respaldo
+*.bak
+*.backup
+*~
+
+# Node modules (por si agregas dependencias en el futuro)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Archivos de construcción (por si usas build tools)
+dist/
+build/
+*.min.js
+*.min.css
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Carpetas de testing
+coverage/
+.nyc_output/
+
+# Archivos específicos de Windows
+$RECYCLE.BIN/
+
+# Archivos específicos de macOS
+.AppleDouble
+.LSOverride
+
+# Archivos específicos de Linux
+.directory
+.Trash-*
