@@ -136,3 +136,6 @@ azure-opportunity/
 ## 🎉 ¡Disfruta de tu Productividad!
 
 Esperamos que esta aplicación te ayude a mejorar tu concentración y productividad. ¡Feliz Pomodoro! 🍅
+
+#Cambios
+cambie el readme 
